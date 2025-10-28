@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.28)  28 OCT 2025 23:05
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.28)  28 OCT 2025 23:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1283,11 +1283,8 @@ engan metode analisis teks berba-
 [4]
 Bab II.
 
-Package biblatex Warning: Using fallback definition for \mkbibdatelong.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdatelong.
+Package biblatex Warning: Bibliography string 'and' untranslated
+(biblatex)                at entry 'kemenkopukm_bps2023' on input line 7.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
@@ -1302,6 +1299,16 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 (biblatex)                If you see this message, the .lbx file could not be
 (biblatex)                loaded, is faulty or does not contain a definition
 (biblatex)                for \mkbibdatelong.
+
+
+Overfull \hbox (12.2099pt too wide) in paragraph at lines 9--10
+\TU/TimesNewRoman(0)/m/n/12 pelaku UMKM ([][][][]Badan Perencanaan Pembangunan 
+Nasional (Bappenas)[][] [][]2020[][][]). Adop-
+ []
+
+
+LaTeX Warning: Citation 'apjii2024_penetrasi' on page 5 undefined on input line
+ 11.
 
 
 
@@ -1337,12 +1344,6 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 (biblatex)                for \mkbibdatelong.
 
 
-Overfull \hbox (2.93115pt too wide) in paragraph at lines 377--377
-[][]\TU/TimesNewRoman(0)/m/n/12 Badan Perencanaan Pembangunan Nasional (Bappena
-s). 2023. \TU/TimesNewRoman(0)/m/it/12 Transformasi UMKM
- []
-
-
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 (biblatex)                The command should be defined in the .lbx file.
 (biblatex)                If you see this message, the .lbx file could not be
@@ -1366,6 +1367,10 @@ Overfull \hbox (25.93495pt too wide) in paragraph at lines 377--377
 \TU/TimesNewRoman(0)/m/n/12 “  Towards A Sentiment Analyzer for Low-Resource La
 nguages”. ArXiv:2011.06382,
  []
+
+
+Package biblatex Warning: Bibliography string 'and' untranslated
+(biblatex)                at entry 'kemenkopukm_bps2023' on input line 377.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
@@ -1453,11 +1458,11 @@ Package logreq Info: Writing requests to 'ProposalTA.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  29892 strings out of 475366
- 594270 string characters out of 5762338
- 1929770 words of memory out of 5000000
+ 594240 string characters out of 5762338
+ 1931771 words of memory out of 5000000
  52525 multiletter control sequences out of 15000+600000
  564026 words of font info for 78 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 79i,6n,93p,1199b,5469s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,5n,93p,1199b,5469s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on ProposalTA.pdf (14 pages).

@@ -50,7 +50,7 @@
       \verb https://www.antaranews.com/berita/3941181/apjii-sebut-penetrasi-internet-indonesia-naik-jadi-79-5-persen
       \endverb
     \endentry
-    \entry{bappenas2023_umkmtransformasi}{misc}{}{}
+    \entry{bappenas2020_umkmdigital}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2063d217419acdcfe2bbd15a5b81eec9}{%
            family={{Badan Perencanaan Pembangunan Nasional (Bappenas)}},
@@ -70,15 +70,15 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Publikasi Resmi Bappenas}
-      \field{note}{Diakses 20 Oktober 2025}
-      \field{title}{Transformasi UMKM dalam Ekonomi Digital: Tantangan dan Strategi Penguatan}
-      \field{year}{2023}
+      \field{howpublished}{Website Bappenas}
+      \field{note}{Diakses 28 Oktober 2025}
+      \field{title}{Bappenas Dorong Transformasi Digital Sektor UMKM}
+      \field{year}{2020}
       \verb{urlraw}
-      \verb https://bappenas.go.id/id/publikasi/transformasi-umkm-digital
+      \verb https://www.bappenas.go.id/berita/bappenas-dorong-transformasi-digital-sektor-umkm
       \endverb
       \verb{url}
-      \verb https://bappenas.go.id/id/publikasi/transformasi-umkm-digital
+      \verb https://www.bappenas.go.id/berita/bappenas-dorong-transformasi-digital-sektor-umkm
       \endverb
     \endentry
     \entry{girsang2022_ppkm_bert}{article}{}{}
@@ -169,35 +169,38 @@
       \verb https://arxiv.org/abs/2011.06382
       \endverb
     \endentry
-    \entry{kemenkopukm2024_umkmdata}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=1b9841eccb595b57d3b388c4f4676886}{%
-           family={{Kementerian Koperasi dan Usaha Kecil dan Menengah Republik Indonesia}},
+    \entry{kemenkopukm_bps2023}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2db2b9909e5d76807779c5251e7f30dd}{%
+           family={{Kementerian Koperasi dan UKM Republik Indonesia}},
            familyi={K\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=9e8d1c6faf863da2684d21326ecf4fad}{%
+           family={{Badan Pusat Statistik}},
+           familyi={B\bibinitperiod}}}%
       }
-      \strng{namehash}{1b9841eccb595b57d3b388c4f4676886}
-      \strng{fullhash}{1b9841eccb595b57d3b388c4f4676886}
-      \strng{fullhashraw}{1b9841eccb595b57d3b388c4f4676886}
-      \strng{bibnamehash}{1b9841eccb595b57d3b388c4f4676886}
-      \strng{authorbibnamehash}{1b9841eccb595b57d3b388c4f4676886}
-      \strng{authornamehash}{1b9841eccb595b57d3b388c4f4676886}
-      \strng{authorfullhash}{1b9841eccb595b57d3b388c4f4676886}
-      \strng{authorfullhashraw}{1b9841eccb595b57d3b388c4f4676886}
+      \strng{namehash}{f2f47f2c62614e260cf694ef195d7b21}
+      \strng{fullhash}{f2f47f2c62614e260cf694ef195d7b21}
+      \strng{fullhashraw}{f2f47f2c62614e260cf694ef195d7b21}
+      \strng{bibnamehash}{f2f47f2c62614e260cf694ef195d7b21}
+      \strng{authorbibnamehash}{f2f47f2c62614e260cf694ef195d7b21}
+      \strng{authornamehash}{f2f47f2c62614e260cf694ef195d7b21}
+      \strng{authorfullhash}{f2f47f2c62614e260cf694ef195d7b21}
+      \strng{authorfullhashraw}{f2f47f2c62614e260cf694ef195d7b21}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Laporan Resmi Kemenkop UKM}
-      \field{note}{Diakses 20 Oktober 2025}
-      \field{title}{Data Statistik UMKM Tahun 2024}
-      \field{year}{2024}
+      \field{howpublished}{Siaran Pers BPS}
+      \field{note}{Diakses 28 Oktober 2025}
+      \field{title}{KemenKopUKM Gandeng BPS Lakukan Pendataan Lengkap Koperasi dan UMKM 2023}
+      \field{year}{2023}
       \verb{urlraw}
-      \verb https://kemenkopukm.go.id/data-umkm-2024
+      \verb https://www.bps.go.id/news/2023/09/15/533/kemenkopukm-gandeng-bps-lakukan-pendataan-lengkap-koperasi-dan-umkm-2023.html
       \endverb
       \verb{url}
-      \verb https://kemenkopukm.go.id/data-umkm-2024
+      \verb https://www.bps.go.id/news/2023/09/15/533/kemenkopukm-gandeng-bps-lakukan-pendataan-lengkap-koperasi-dan-umkm-2023.html
       \endverb
     \endentry
     \entry{kolchyna2015_twitter_sentiment}{article}{}{}
