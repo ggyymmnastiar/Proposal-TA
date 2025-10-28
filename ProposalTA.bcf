@@ -4982,7 +4982,10 @@
     <bcf:citekey order="1" intorder="1">jokowi_umkm_pdb2024</bcf:citekey>
     <bcf:citekey order="2" intorder="1">apjii2024</bcf:citekey>
     <bcf:citekey order="3" intorder="1">permana2023_umkm_twitter</bcf:citekey>
-    <bcf:citekey order="4" intorder="1" nocite="1">*</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">kemenkopukm2024_umkmdata</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">jokowi_umkm_pdb2024</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">bappenas2023_umkmtransformasi</bcf:citekey>
+    <bcf:citekey order="7" intorder="1" nocite="1">*</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="cms">

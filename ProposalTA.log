@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.28)  28 OCT 2025 21:52
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.28)  28 OCT 2025 23:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1278,10 +1278,39 @@ engan metode analisis teks berba-
 
 
 
-[3]) (./Bab II - Studi-Literatur.tex) (./Bab III - Analisis-Masalah.tex)
-(./Bab IV - Desain-Konsep-Solusi.tex) (./Bab V - Rencana-Selanjutnya.tex)
+[3]) (./Bab II - Studi-Literatur.tex
 
 [4]
+Bab II.
+
+Package biblatex Warning: Using fallback definition for \mkbibdatelong.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibdatelong.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibdatelong.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibdatelong.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibdatelong.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibdatelong.
+
+
+
+[5
+
+]) (./Bab III - Analisis-Masalah.tex) (./Bab IV - Desain-Konsep-Solusi.tex)
+(./Bab V - Rencana-Selanjutnya.tex)
+
+[6]
 
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 (biblatex)                The command should be defined in the .lbx file.
@@ -1308,6 +1337,19 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 (biblatex)                for \mkbibdatelong.
 
 
+Overfull \hbox (2.93115pt too wide) in paragraph at lines 377--377
+[][]\TU/TimesNewRoman(0)/m/n/12 Badan Perencanaan Pembangunan Nasional (Bappena
+s). 2023. \TU/TimesNewRoman(0)/m/it/12 Transformasi UMKM
+ []
+
+
+Package biblatex Warning: Using fallback definition for \mkbibdatelong.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibdatelong.
+
+
 Package biblatex Warning: Bibliography string 'and' untranslated
 (biblatex)                at entry 'indriani2020_low_resource_sentiment' on inp
 ut line 377.
@@ -1324,6 +1366,13 @@ Overfull \hbox (25.93495pt too wide) in paragraph at lines 377--377
 \TU/TimesNewRoman(0)/m/n/12 “  Towards A Sentiment Analyzer for Low-Resource La
 nguages”. ArXiv:2011.06382,
  []
+
+
+Package biblatex Warning: Using fallback definition for \mkbibdatelong.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibdatelong.
 
 
 Package biblatex Warning: Bibliography string 'and' untranslated
@@ -1350,6 +1399,12 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 (biblatex)                for \mkbibdatelong.
 
 
+
+[7
+
+
+]
+
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 (biblatex)                The command should be defined in the .lbx file.
 (biblatex)                If you see this message, the .lbx file could not be
@@ -1370,10 +1425,7 @@ See the caption package documentation for explanation.
 
 
 
-[5
-
-
-] (./ProposalTA.aux)
+[8] (./ProposalTA.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1389,7 +1441,7 @@ Package rerunfilecheck Warning: File `ProposalTA.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `ProposalTA.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  A53FD0D9ACB92F26327F7F72AD0412FF;1564.
+(rerunfilecheck)             After:  B6DF77B8E4FC37A679619858E7C41E70;3028.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                ProposalTA
@@ -1400,12 +1452,12 @@ Package logreq Info: Writing requests to 'ProposalTA.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29886 strings out of 475366
- 593903 string characters out of 5762338
- 1930771 words of memory out of 5000000
- 52519 multiletter control sequences out of 15000+600000
+ 29892 strings out of 475366
+ 594270 string characters out of 5762338
+ 1929770 words of memory out of 5000000
+ 52525 multiletter control sequences out of 15000+600000
  564026 words of font info for 78 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 79i,5n,93p,1199b,5469s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,6n,93p,1199b,5469s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on ProposalTA.pdf (11 pages).
+Output written on ProposalTA.pdf (14 pages).
