@@ -1,7 +1,7 @@
 {
     "latex-workshop.latex.recipes": [
         {
-            "name": "xelatex -> biber -> xelatex * 2",
+            "name": "xelatex -> biber -> xelatex*2",
             "tools": [
                 "xelatex",
                 "biber",
@@ -18,11 +18,8 @@
                 "-synctex=1",
                 "-interaction=nonstopmode",
                 "-file-line-error",
-                "-xelatex",
-                "-outdir=%OUTDIR%",
                 "%DOC%"
-            ],
-            "env": {}
+            ]
         },
         {
             "name": "biber",
