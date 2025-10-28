@@ -1,0 +1,283 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global/global}
+    \entry{apjii2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e1f4757ae14f37ccec9567c2da8fb6ea}{%
+           family={{Asosiasi Penyelenggara Jasa Internet Indonesia (APJII)}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1f4757ae14f37ccec9567c2da8fb6ea}
+      \strng{fullhash}{e1f4757ae14f37ccec9567c2da8fb6ea}
+      \strng{fullhashraw}{e1f4757ae14f37ccec9567c2da8fb6ea}
+      \strng{bibnamehash}{e1f4757ae14f37ccec9567c2da8fb6ea}
+      \strng{authorbibnamehash}{e1f4757ae14f37ccec9567c2da8fb6ea}
+      \strng{authornamehash}{e1f4757ae14f37ccec9567c2da8fb6ea}
+      \strng{authorfullhash}{e1f4757ae14f37ccec9567c2da8fb6ea}
+      \strng{authorfullhashraw}{e1f4757ae14f37ccec9567c2da8fb6ea}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{ANTARA News}
+      \field{note}{Diakses 20 Oktober 2025}
+      \field{title}{APJII Sebut Penetrasi Internet Indonesia Naik Jadi 79,5 Persen di 2024}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.antaranews.com/berita/3941181/apjii-sebut-penetrasi-internet-indonesia-naik-jadi-79-5-persen
+      \endverb
+      \verb{url}
+      \verb https://www.antaranews.com/berita/3941181/apjii-sebut-penetrasi-internet-indonesia-naik-jadi-79-5-persen
+      \endverb
+    \endentry
+    \entry{girsang2022_ppkm_bert}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=63d50411c24dcc8de2051ec79b0cb89d}{%
+           family={Girsang},
+           familyi={G\bibinitperiod},
+           given={A.\bibnamedelimi S.\bibnamedelimi Fransiscus},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{63d50411c24dcc8de2051ec79b0cb89d}
+      \strng{fullhash}{63d50411c24dcc8de2051ec79b0cb89d}
+      \strng{fullhashraw}{63d50411c24dcc8de2051ec79b0cb89d}
+      \strng{bibnamehash}{63d50411c24dcc8de2051ec79b0cb89d}
+      \strng{authorbibnamehash}{63d50411c24dcc8de2051ec79b0cb89d}
+      \strng{authornamehash}{63d50411c24dcc8de2051ec79b0cb89d}
+      \strng{authorfullhash}{63d50411c24dcc8de2051ec79b0cb89d}
+      \strng{authorfullhashraw}{63d50411c24dcc8de2051ec79b0cb89d}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{arXiv preprint}
+      \field{note}{arXiv:2301.00096}
+      \field{title}{Sentiment Analysis of COVID-19 Public Activity Restriction (PPKM) Impact Using BERT Method}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2301.00096
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2301.00096
+      \endverb
+    \endentry
+    \entry{indriani2020_low_resource_sentiment}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e68889a5f3b88bfb66085b1af8b3094f}{%
+           family={Indriani},
+           familyi={I\bibinitperiod},
+           given={Dian},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5cabd2faf9d202e233f86538cae1889f}{%
+           family={Nasution},
+           familyi={N\bibinitperiod},
+           given={Arbi\bibnamedelima Haza},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a91588695dd594e4c5ef2d2e2984733c}{%
+           family={Monika},
+           familyi={M\bibinitperiod},
+           given={Winda},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04b4eee3dd571d36bd86a79b4a317b79}{%
+           family={Nasution},
+           familyi={N\bibinitperiod},
+           given={Salhazan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0abb57de1698163a766bdcb486bd1d9e}
+      \strng{fullhash}{7dc7a18653ce3c3c68a7df5d2b636b66}
+      \strng{fullhashraw}{7dc7a18653ce3c3c68a7df5d2b636b66}
+      \strng{bibnamehash}{7dc7a18653ce3c3c68a7df5d2b636b66}
+      \strng{authorbibnamehash}{7dc7a18653ce3c3c68a7df5d2b636b66}
+      \strng{authornamehash}{0abb57de1698163a766bdcb486bd1d9e}
+      \strng{authorfullhash}{7dc7a18653ce3c3c68a7df5d2b636b66}
+      \strng{authorfullhashraw}{7dc7a18653ce3c3c68a7df5d2b636b66}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{arXiv preprint}
+      \field{note}{arXiv:2011.06382}
+      \field{title}{Towards A Sentiment Analyzer for Low-Resource Languages}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2011.06382
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2011.06382
+      \endverb
+    \endentry
+    \entry{kolchyna2015_twitter_sentiment}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=cfa791d75f659f9528239093e55bff85}{%
+           family={Kolchyna},
+           familyi={K\bibinitperiod},
+           given={Olga},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eac7131a65b25878b1794b64fbe02208}{%
+           family={Souza},
+           familyi={S\bibinitperiod},
+           given={Tharsis\bibnamedelimb T.\bibnamedelimi P.},
+           giveni={T\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49d262a8b4eaed8a2d8b85c7f6ec4f78}{%
+           family={Treleaven},
+           familyi={T\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=93b54beeb14b61c7fca6c36f5c8c76d2}{%
+           family={Aste},
+           familyi={A\bibinitperiod},
+           given={Tomaso},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a16453a8f66a772ba5dc7f34f5f6b5f5}
+      \strng{fullhash}{5ecda4dfa63d625eef89bbb8881f7033}
+      \strng{fullhashraw}{5ecda4dfa63d625eef89bbb8881f7033}
+      \strng{bibnamehash}{5ecda4dfa63d625eef89bbb8881f7033}
+      \strng{authorbibnamehash}{5ecda4dfa63d625eef89bbb8881f7033}
+      \strng{authornamehash}{a16453a8f66a772ba5dc7f34f5f6b5f5}
+      \strng{authorfullhash}{5ecda4dfa63d625eef89bbb8881f7033}
+      \strng{authorfullhashraw}{5ecda4dfa63d625eef89bbb8881f7033}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{arXiv preprint}
+      \field{note}{arXiv:1507.00955}
+      \field{title}{Twitter Sentiment Analysis: Lexicon Method, Machine Learning Method and Their Combination}
+      \field{year}{2015}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1507.00955
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1507.00955
+      \endverb
+    \endentry
+    \entry{permana2023_umkm_twitter}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ecb51da945bcbc91e37cc649eeb63686}{%
+           family={Permana},
+           familyi={P\bibinitperiod},
+           given={Angga\bibnamedelima Aditya},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c902195ef52f35d0a618204147686a71}{%
+           family={Noviyanto},
+           familyi={N\bibinitperiod},
+           given={Wahyu\bibnamedelima Aldhi},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60c4bca12d8edb43bc53a40cebf43caf}{%
+           family={Kristiyanti},
+           familyi={K\bibinitperiod},
+           given={Dinar\bibnamedelima Ajeng},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4234b84f16dd5f50ec398d17ac85a23d}
+      \strng{fullhash}{4234b84f16dd5f50ec398d17ac85a23d}
+      \strng{fullhashraw}{4234b84f16dd5f50ec398d17ac85a23d}
+      \strng{bibnamehash}{4234b84f16dd5f50ec398d17ac85a23d}
+      \strng{authorbibnamehash}{4234b84f16dd5f50ec398d17ac85a23d}
+      \strng{authornamehash}{4234b84f16dd5f50ec398d17ac85a23d}
+      \strng{authorfullhash}{4234b84f16dd5f50ec398d17ac85a23d}
+      \strng{authorfullhashraw}{4234b84f16dd5f50ec398d17ac85a23d}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Jurnal Minfo Polgan}
+      \field{number}{1}
+      \field{title}{Sentimen Analisis Opini Masyarakat Terhadap UMKM Pada Media Sosial Twitter Dengan Metode Naïve Bayes Classifier}
+      \field{volume}{12}
+      \field{year}{2023}
+      \field{pages}{163\bibrangedash 170}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.33395/jmp.v12i1.12337
+      \endverb
+      \verb{urlraw}
+      \verb https://jurnal.polgan.ac.id/index.php/jmp/article/view/12337
+      \endverb
+      \verb{url}
+      \verb https://jurnal.polgan.ac.id/index.php/jmp/article/view/12337
+      \endverb
+    \endentry
+    \entry{jokowi_umkm_pdb2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=63710830ed84890503747c5b33c89a3d}{%
+           family={Widodo},
+           familyi={W\bibinitperiod},
+           given={Joko},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{63710830ed84890503747c5b33c89a3d}
+      \strng{fullhash}{63710830ed84890503747c5b33c89a3d}
+      \strng{fullhashraw}{63710830ed84890503747c5b33c89a3d}
+      \strng{bibnamehash}{63710830ed84890503747c5b33c89a3d}
+      \strng{authorbibnamehash}{63710830ed84890503747c5b33c89a3d}
+      \strng{authornamehash}{63710830ed84890503747c5b33c89a3d}
+      \strng{authorfullhash}{63710830ed84890503747c5b33c89a3d}
+      \strng{authorfullhashraw}{63710830ed84890503747c5b33c89a3d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Kompas}
+      \field{note}{Diakses 20 Oktober 2025}
+      \field{title}{Jokowi Katakan Jumlah UMKM Kita 65 Juta dan Penyerapan Tenaga Kerja 97 Persen}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://nasional.kompas.com/read/2024/03/07/16040301/jokowi-jumlah-umkm-kita-65-juta-dan-penyerapan-tenaga-kerja-97-persen
+      \endverb
+      \verb{url}
+      \verb https://nasional.kompas.com/read/2024/03/07/16040301/jokowi-jumlah-umkm-kita-65-juta-dan-penyerapan-tenaga-kerja-97-persen
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
