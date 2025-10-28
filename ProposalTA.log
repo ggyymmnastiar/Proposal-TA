@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.28)  28 OCT 2025 20:59
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.28)  28 OCT 2025 21:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1271,14 +1271,14 @@ UMKM dengan bantuan teknik
 
 
 [2]
-
-[3]
-Overfull \hbox (5.64505pt too wide) in paragraph at lines 62--64
-\TU/TimesNewRoman(0)/m/n/12 Berisi latar belakang, rumusan masalah, tujuan pene
-litian, manfaat penelitian, batasan
+Overfull \hbox (7.5286pt too wide) in paragraph at lines 60--61
+\TU/TimesNewRoman(0)/m/n/12 Penelitian ini menggunakan pendekatan kuantitatif d
+engan metode analisis teks berba-
  []
 
-) (./Bab II - Studi-Literatur.tex) (./Bab III - Analisis-Masalah.tex)
+
+
+[3]) (./Bab II - Studi-Literatur.tex) (./Bab III - Analisis-Masalah.tex)
 (./Bab IV - Desain-Konsep-Solusi.tex) (./Bab V - Rencana-Selanjutnya.tex)
 
 [4]
@@ -1389,7 +1389,7 @@ Package rerunfilecheck Warning: File `ProposalTA.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `ProposalTA.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  45E7ED9CB9156976058C90DCE79C3784;1564.
+(rerunfilecheck)             After:  A53FD0D9ACB92F26327F7F72AD0412FF;1564.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                ProposalTA
@@ -1406,6 +1406,6 @@ Here is how much of TeX's memory you used:
  52519 multiletter control sequences out of 15000+600000
  564026 words of font info for 78 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 79i,6n,93p,1199b,5470s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,5n,93p,1199b,5469s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on ProposalTA.pdf (11 pages).

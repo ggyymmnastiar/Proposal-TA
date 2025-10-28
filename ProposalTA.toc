@@ -16,7 +16,7 @@
 \contentsline {subsection}{\numberline {I.4.1}Manfaat Teoritis}{3}{subsection.1.4.1}%
 \contentsline {subsection}{\numberline {I.4.2}Manfaat Praktis}{3}{subsection.1.4.2}%
 \contentsline {section}{\numberline {I.5}Batasan Masalah}{3}{section.1.5}%
-\contentsline {section}{\numberline {I.6}Sistematika Penulisan}{4}{section.1.6}%
+\contentsline {section}{\numberline {I.6}Metodologi Penelitian}{4}{section.1.6}%
 \babel@toc {english}{}\relax 
 \babel@toc {indonesian}{}\relax 
 \babel@toc {english}{}\relax 

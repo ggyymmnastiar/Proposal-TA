@@ -55,25 +55,12 @@ Untuk menjaga fokus penelitian, batasan masalah yang diterapkan adalah sebagai b
     \item Metode NLP yang digunakan berfokus pada analisis sentimen dan klasifikasi aspek, tanpa membahas rekomendasi atau prediksi perilaku pengguna.
 \end{enumerate}
 
-\section{Sistematika Penulisan}
+\section{Metodologi Penelitian}
 
-Sistematika penulisan dalam skripsi ini disusun sebagai berikut:
+Penelitian ini menggunakan pendekatan kuantitatif dengan metode analisis teks berbasis \emph{Natural Language Processing} (NLP). Secara umum, proses penelitian terdiri atas beberapa tahapan utama, yaitu pengumpulan data, pra-pemrosesan teks, analisis sentimen, klasifikasi aspek, serta evaluasi hasil model.  
 
-\noindent\textbf{Bab I Pendahuluan} \\
-Berisi latar belakang, rumusan masalah, tujuan penelitian, manfaat penelitian, batasan masalah, dan sistematika penulisan.
+Data penelitian akan diperoleh dari ulasan atau umpan balik pengguna terhadap produk UMKM yang tersedia di platform daring. Data tersebut kemudian akan melalui tahap pra-pemrosesan yang meliputi pembersihan teks, normalisasi, tokenisasi, dan penghapusan kata-kata umum (\emph{stopwords}).  
 
-\vspace{0.5em}
-\noindent\textbf{Bab II Tinjauan Pustaka} \\
-Menguraikan teori-teori yang relevan, penelitian terdahulu, serta landasan konseptual mengenai analisis sentimen, klasifikasi teks, dan penerapan NLP.
+Tahap berikutnya adalah analisis sentimen menggunakan model pembelajaran mesin (\emph{machine learning}) untuk menentukan polaritas opini pengguna (positif, negatif, atau netral). Selain itu, dilakukan pula klasifikasi aspek untuk mengidentifikasi topik utama dalam setiap umpan balik, seperti kualitas produk, harga, layanan pelanggan, dan pengiriman.  
 
-\vspace{0.5em}
-\noindent\textbf{Bab III Metodologi Penelitian} \\
-Menjelaskan rancangan penelitian, tahapan pengumpulan data, metode analisis, serta model NLP yang digunakan.
-
-\vspace{0.5em}
-\noindent\textbf{Bab IV Hasil dan Pembahasan} \\
-Menyajikan hasil eksperimen, evaluasi model, dan pembahasan hasil analisis.
-
-\vspace{0.5em}
-\noindent\textbf{Bab V Kesimpulan dan Saran} \\
-Berisi kesimpulan hasil penelitian serta saran untuk pengembangan penelitian selanjutnya.
+Model yang digunakan akan dievaluasi menggunakan metrik akurasi, presisi, \emph{recall}, dan \emph{F1-score} guna mengukur kinerja sistem secara objektif. Hasil dari analisis ini diharapkan dapat memberikan wawasan yang berguna bagi pelaku UMKM dalam memahami persepsi konsumen serta mendukung pengambilan keputusan berbasis data.
