@@ -4984,8 +4984,7 @@
     <bcf:citekey order="3" intorder="1">permana2023_umkm_twitter</bcf:citekey>
     <bcf:citekey order="4" intorder="1">kemenkopukm_bps2023</bcf:citekey>
     <bcf:citekey order="5" intorder="1">bappenas2020_umkmdigital</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">apjii2024_penetrasi</bcf:citekey>
-    <bcf:citekey order="7" intorder="1" nocite="1">*</bcf:citekey>
+    <bcf:citekey order="6" intorder="1" nocite="1">*</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="cms">

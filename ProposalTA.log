@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.28)  28 OCT 2025 23:21
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.28)  28 OCT 2025 23:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1306,16 +1306,12 @@ Overfull \hbox (12.2099pt too wide) in paragraph at lines 9--10
 Nasional (Bappenas)[][] [][]2020[][][]). Adop-
  []
 
-
-LaTeX Warning: Citation 'apjii2024_penetrasi' on page 5 undefined on input line
- 11.
-
-
+) (./Bab III - Analisis-Masalah.tex) (./Bab IV - Desain-Konsep-Solusi.tex)
+(./Bab V - Rencana-Selanjutnya.tex)
 
 [5
 
-]) (./Bab III - Analisis-Masalah.tex) (./Bab IV - Desain-Konsep-Solusi.tex)
-(./Bab V - Rencana-Selanjutnya.tex)
+]
 
 [6]
 
